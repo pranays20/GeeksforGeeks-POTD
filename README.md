@@ -605,29 +605,6 @@ We ❤️ contributions! Here's how you can contribute:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 </a>
 
-<!-- Added Team section -->
-## 👤 Creator
-| ![Het Patel](https://avatars.githubusercontent.com/u/124852522?v=4&s=80) |
-|:--:|
-| [**Het Patel**](https://github.com/sponsors/Hunterdii) <br> <sub>Project Maintainer</sub> |
-| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/) [![Gmail](https://img.icons8.com/fluency/32/000000/gmail.png)](mailto:hunterdii9879@gmail.com) |
-
-For any inquiries or feedback, please contact. Happy Contributing❤
-
-<!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-</a>
-
-
-<div>
-  <h2 align = "center"><img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="35" height="35">Our Contributors</h2>
-  <div align = "center">
- <h3>Thank you for contributing to our repository</h3></div>
-
-   ![Contributors](https://contrib.rocks/image?repo=Hunterdii/GeeksforGeeks-POTD&columns=24&max=480)
-</div>
-
 
 
 **✨ Happy Coding!**
