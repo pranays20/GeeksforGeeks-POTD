@@ -628,43 +628,6 @@ For any inquiries or feedback, please contact. Happy Contributing❤
    ![Contributors](https://contrib.rocks/image?repo=Hunterdii/GeeksforGeeks-POTD&columns=24&max=480)
 </div>
 
-> Shaping solutions every day—thanks to everyone contributing to **GeeksforGeeks-POTD! 🚀**
-
-<!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-</a>
-
-
-<div style="text-align: center; margin-bottom: 20px;">
-
-<h2><img src="https://github.com/user-attachments/assets/8dfb6d9b-fa76-4863-b555-e4877ee9c801" width = 32px height = 30px></a>  Star Geographical Distribution </h2>
-
- <!-- ## 🌍 Star Geographical Distribution-->
-  <p>This map shows the global distribution of stars for the repository. Click to explore more details.</p>
-  <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=769514979&activity=stars" target="_blank" style="display: block;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=769514979&activity=stars&image_size=auto&color_scheme=dark" width="1100" height="auto">
-      <img alt="Star Geographical Distribution of GeeksforGeeks-POTD" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=769514979&activity=stars&image_size=auto&color_scheme=light" width="1100" height="auto">
-    </picture>
-  </a>
-  
-  <p><img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:22px; color: #FFD700" alt="Star GIF"> See the geographical spread of stars on the map above! <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:22px; color: #FFD700" alt="Star GIF"></p>
-  
-</div>
-
-
-<h2>
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
-   <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a>  Achievements & Highlights </h2>
-
-- **🌐 Global Reach**: Engaging with coders worldwide, from beginners to experts.
-- **🔥 Trending Topics**: Problems that sharpen your data structures and algorithms skills.
-
-<h1> <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:38px; color: #FFD700" alt="Star GIF">
-Ready to Level Up Your Coding Skills? Give This Repo a Star! </h1>
-Your support fuels the journey. A star not only motivates but keeps the commitment alive. Let’s make coding collaborative and fun!
-
 
 
 **✨ Happy Coding!**
