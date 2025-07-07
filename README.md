@@ -44,6 +44,8 @@
  | [Solution](/July%202025%20GFG%20SOLUTION/04(July)%20Subarrays%20With%20At%20Most%20K%20Distinct%20Integers.md#-code-c) | [Solution](/July%202025%20GFG%20SOLUTION/04(July)%20Subarrays%20With%20At%20Most%20K%20Distinct%20Integers.md#-code-java) | [Solution](/July%202025%20GFG%20SOLUTION/04(July)%20Subarrays%20With%20At%20Most%20K%20Distinct%20Integers.md#-code-python) |
 | 05 July    |  Max Score from Subarray Mins 🧠💯🪜                    |  | [Solution](/July%202025%20GFG%20SOLUTION/05(July)%20Max%20Score%20from%20Subarray%20Mins.md#-code-c) | [Solution](/July%202025%20GFG%20SOLUTION/05(July)%20Max%20Score%20from%20Subarray%20Mins.md#-code-java) | [Solution](/July%202025%20GFG%20SOLUTION/05(July)%20Max%20Score%20from%20Subarray%20Mins.md#-code-python) |
 | 06 July    |  Maximum Sum Combination ➕🏆💡                    |  | [Solution](/July%202025%20GFG%20SOLUTION/06(July)%20Maximum%20Sum%20Combination.md#-code-c) | [Solution](/July%202025%20GFG%20SOLUTION/06(July)%20Maximum%20Sum%20Combination.md#-code-java) | [Solution](/July%202025%20GFG%20SOLUTION/06(July)%20Maximum%20Sum%20Combination.md#-code-python) |
+| 07 July    |  Next Greater Element in Circular Array 🔁➡️🔄                   |  | [Solution](/July%202025%20GFG%20SOLUTION/07(July)%20Next%20Greater%20Element%20in%20Circular%20Array.md#-code-c) | [Solution](/July%202025%20GFG%20SOLUTION/07(July)%20Next%20Greater%20Element%20in%20Circular%20Array.md#-code-java) | [Solution](/July%202025%20GFG%20SOLUTION/07(July)%20Next%20Greater%20Element%20in%20Circular%20Array.md#-code-python) |
+
 ---
 --- 
 ---
