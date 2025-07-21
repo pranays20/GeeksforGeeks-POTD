@@ -55,6 +55,7 @@
 | 15 July    |  Divisible by 13 ➗🔢📍                  |  | [Solution](/July%202025%20GFG%20SOLUTION/15(July)%20Divisible%20by%2013.md#-code-c) | [Solution](/July%202025%20GFG%20SOLUTION/15(July)%20Divisible%20by%2013.md#-code-java) | [Solution](/July%202025%20GFG%20SOLUTION/15(July)%20Divisible%20by%2013.md#-code-python) |
 
 
+| 16 July  |                   Nine Divisors 🔢📐📘                    |       |                         [Solution](</July%202025%20GFG%20SOLUTION/16(July)%20Nine%20Divisors.md#-code-c>)                         |                         [Solution](</July%202025%20GFG%20SOLUTION/16(July)%20Nine%20Divisors.md#-code-java>)                         |                         [Solution](</July%202025%20GFG%20SOLUTION/16(July)%20Nine%20Divisors.md#-code-python>)                         |
 
 
 ---
