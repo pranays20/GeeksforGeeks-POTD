@@ -64,6 +64,8 @@
 | 20 July  |            Count Numbers Containing Specific Digits 🔢📍📈             |       |                [Solution](</July%202025%20GFG%20SOLUTION/20(July)%20Count%20Numbers%20Containing%20Specific%20Digits.md#-code-c>)                 |                [Solution](</July%202025%20GFG%20SOLUTION/20(July)%20Count%20Numbers%20Containing%20Specific%20Digits.md#-code-java>)                 |                [Solution](</July%202025%20GFG%20SOLUTION/20(July)%20Count%20Numbers%20Containing%20Specific%20Digits.md#-code-python>)                 |
 
 
+| 21 July  |            Count the Coprimes 🧮🟰📈             |       |                [Solution](</July%202025%20GFG%20SOLUTION/21(July)%20Count%20the%20Coprimes.md#-code-c>)                 |                [Solution](</July%202025%20GFG%20SOLUTION/21(July)%20Count%20the%20Coprimes.md#-code-java>)                 |                [Solution](</July%202025%20GFG%20SOLUTION/21(July)%20Count%20the%20Coprimes.md#-code-python>)                 |
+
 ---
 --- 
 ---
