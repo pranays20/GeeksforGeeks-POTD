@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## [📅 **September 2025 Problem of the Day Solutions** 📅](September%202025%20GFG%20SOLUTION)
+## [📅 **October 2025 Problem of the Day Solutions** 📅](October%202025%20GFG%20SOLUTION)
 
 ## 🚀 My Open-Source Projects
 
@@ -35,11 +35,10 @@
 
 | **Date** |                     **Problem Name**                      | **C** |                                                              **C++**                                                              |                                                               **Java**                                                               |                                                               **Python**                                                               |
 | :------: | :-------------------------------------------------------: | :---: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 01 September  | Sum of Mode 🔢📈🪟  |       | [Solution](</September%202025%20GFG%20SOLUTION/01(Sep)%20Sum%20of%20Mode.md#-code-c>) | [Solution](</September%202025%20GFG%20SOLUTION/01(Sep)%20Sum%20of%20Mode.md#-code-java>) | [Solution](</September%202025%20GFG%20SOLUTION/01(Sep)%20Sum%20of%20Mode.md#-code-python>) |
-| 02 September  | Swap Kth nodes from ends 🔗🔄🎯  |       | [Solution](</September%202025%20GFG%20SOLUTION/02(Sep)%20Swap%20Kth%20nodes%20from%20ends.md#-code-c>) | [Solution](</September%202025%20GFG%20SOLUTION/02(Sep)%20Swap%20Kth%20nodes%20from%20ends.md#-code-java>) | [Solution](</September%202025%20GFG%20SOLUTION/02(Sep)%20Swap%20Kth%20nodes%20from%20ends.md#-code-python>) |
-| 03 September  | Reverse a Doubly Linked List 🔁🔗🔄  |       | [Solution](</September%202025%20GFG%20SOLUTION/03(Sep)%20Reverse%20a%20Doubly%20Linked%20List.md#-code-c>) | [Solution](</September%202025%20GFG%20SOLUTION/03(Sep)%20Reverse%20a%20Doubly%20Linked%20List.md#-code-java>) | [Solution](</September%202025%20GFG%20SOLUTION/03(Sep)%20Reverse%20a%20Doubly%20Linked%20List.md#-code-python>) |
-| 04 September  | Linked List Group Reverse 🔗↔️👩‍💻  |       | [Solution](</September%202025%20GFG%20SOLUTION/04(Sep)%20Linked%20List%20Group%20Reverse.md#-code-c>) | [Solution](</September%202025%20GFG%20SOLUTION/04(Sep)%20Linked%20List%20Group%20Reverse.md#-code-java>) | [Solution](</September%202025%20GFG%20SOLUTION/04(Sep)%20Linked%20List%20Group%20Reverse.md#-code-python>) |
-| 05 September  | Sort a linked list of 0s, 1s and 2s 🔗🎯🚀  |       | [Solution](</September%202025%20GFG%20SOLUTION/05(Sep)%20Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s.md#-code-c>) | [Solution](</September%202025%20GFG%20SOLUTION/05(Sep)%20Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s.md#-code-java>) | [Solution](</September%202025%20GFG%20SOLUTION/05(Sep)%20Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s.md#-code-python>) |
+| 01 October  | All Unique Permutations of an array 🔀🌀♻️  |       | [Solution](</October%202025%20GFG%20SOLUTION/01(Oct)%20All%20Unique%20Permutations%20of%20an%20array.md#%E2%80%8D-code-c>) | [Solution](</October%202025%20GFG%20SOLUTION/01(Oct)%20All%20Unique%20Permutations%20of%20an%20array.md#-code-java>) | [Solution](</October%202025%20GFG%20SOLUTION/01(Oct)%20All%20Unique%20Permutations%20of%20an%20array.md#-code-python>) |
+| 02 October  | Unique K-Number Sum 🪄📈🎯  |       | [Solution](</October%202025%20GFG%20SOLUTION/02(Oct)%20Unique%20K-Number%20Sum.md#%E2%80%8D-code-c>) | [Solution](</October%202025%20GFG%20SOLUTION/02(Oct)%20Unique%20K-Number%20Sum.md#-code-java>) | [Solution](</October%202025%20GFG%20SOLUTION/02(Oct)%20Unique%20K-Number%20Sum.md#-code-python>) |
+| 03 October  | Possible Words From Phone Digits 📱📞🔢  |       | [Solution](</October%202025%20GFG%20SOLUTION/03(Oct)%20Possible%20Words%20From%20Phone%20Digits.md#%E2%80%8D-code-c>) | [Solution](</October%202025%20GFG%20SOLUTION/03(Oct)%20Possible%20Words%20From%20Phone%20Digits.md#-code-java>) | [Solution](</October%202025%20GFG%20SOLUTION/03(Oct)%20Possible%20Words%20From%20Phone%20Digits.md#-code-python>) |
+
 
 
 
@@ -56,7 +55,7 @@
 ## **[🔢 GFG 160 Days of Problem Solving (Arrays 1–13) 🔢](</160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)>)**
 
 |  **Day**   |                     **Problem Name**                     |                                                                                     **C**                                                                                     |                                                                                     **C++**                                                                                     |                                                                                     **Java**                                                                                     |                                                                                     **Python**                                                                                     |
-| :--------: | :------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :--------: | :------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Day 1**  |                  Second Largest 🔥🥈📈                   |                                                                                                                                                                               |                              [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%201%20-%20Second%20Largest.md#code-c>)                              |                             [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%201%20-%20Second%20Largest.md#code-java>)                             |                             [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%201%20-%20Second%20Largest.md#code-python>)                             |
 | **Day 2**  |              Move All Zeroes to End 🔥➡️⚡               |                                                                                                                                                                               |                       [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%202%20-%20Move%20All%20Zeroes%20to%20End.md#code-c>)                       |                      [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%202%20-%20Move%20All%20Zeroes%20to%20End.md#code-java>)                      |                      [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%202%20-%20Move%20All%20Zeroes%20to%20End.md#code-python>)                      |
 | **Day 3**  |                 Reverse an Array 🌀🔁💻                  |                           [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%203%20-%20Reverse%20an%20Array.md#code-c>)                           |                           [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%203%20-%20Reverse%20an%20Array.md#code-cpp>)                           |                           [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%203%20-%20Reverse%20an%20Array.md#code-java>)                           |                           [Solution](<./160%20Days%20Of%20Problem%20Solving/GFG%20-%20160%20(Arrays)/Day%203%20-%20Reverse%20an%20Array.md#code-python>)                           |
@@ -519,5 +518,113 @@ Join now & start hacking! 🚀
 - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3AJava+path%3ANovember+2024+GFG+SOLUTION&type=code)
 - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3APython+path%3ANovember+2024+GFG+SOLUTION&type=code)
 - [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3Ac+path%3ANovember+2024+GFG+SOLUTION&type=code)
+
+## 🤝 **Contribution Guidelines**
+
+We ❤️ contributions! Here's how you can contribute:
+
+1. **Fork** this repository.
+2. **Create** a new branch for your feature or bug fix.
+3. **Commit** your changes with a clear message.
+4. **Submit** a pull request and we’ll review it together!
+
+> **Note:** Follow our coding style and include meaningful comments.
+
+<h2>
+  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
+  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> <b></b> Your Star Counts! </b></h2>
+
+<div align="center">
+  
+  🌟 *If this repository helps you, don't forget to* **star it**! 🌟
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=769514979&machine=basicLinux32gb&location=?)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Hunterdii/GeeksforGeeks-POTD)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
+    <img src="https://img.shields.io/github/stars/Hunterdii/GeeksforGeeks-POTD?style=for-the-badge&color=brightgreen" alt="GitHub Stars">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://star-history.com/#Hunterdii/GeeksforGeeks-POTD&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date" />
+    </picture>
+  </a>
+</div>
+
+<!--Line-->
+<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+</a>
+
+<!-- Added Team section -->
+
+## 👤 Creator
+
+|                                                                               ![Het Patel](https://avatars.githubusercontent.com/u/124852522?v=4&s=80)                                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                       [**Het Patel**](https://github.com/sponsors/Hunterdii) <br> <sub>Project Maintainer</sub>                                                                       |
+| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/) [![Gmail](https://img.icons8.com/fluency/32/000000/gmail.png)](mailto:hunterdii9879@gmail.com) |
+
+For any inquiries or feedback, please contact. Happy Contributing❤
+
+<!--Line-->
+<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+</a>
+
+<div>
+  <h2 align = "center"><img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="35" height="35">Our Contributors</h2>
+  <div align = "center">
+ <h3>Thank you for contributing to our repository</h3></div>
+
+![Contributors](https://contrib.rocks/image?repo=Hunterdii/GeeksforGeeks-POTD&columns=24&max=480)
+
+</div>
+
+> Shaping solutions every day—thanks to everyone contributing to **GeeksforGeeks-POTD! 🚀**
+
+<!--Line-->
+<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+</a>
+
+<div style="text-align: center; margin-bottom: 20px;">
+
+<h2><img src="https://github.com/user-attachments/assets/8dfb6d9b-fa76-4863-b555-e4877ee9c801" width = 32px height = 30px></a>  Star Geographical Distribution </h2>
+
+ <!-- ## 🌍 Star Geographical Distribution-->
+  <p>This map shows the global distribution of stars for the repository. Click to explore more details.</p>
+  <!-- Copy-paste in your Readme.md file -->
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=769514979&activity=stars" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=769514979&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Star Geographical Distribution of Hunterdii/GeeksforGeeks-POTD" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=769514979&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+  <p><img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:22px; color: #FFD700" alt="Star GIF"> See the geographical spread of stars on the map above! <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:22px; color: #FFD700" alt="Star GIF"></p>
+  
+</div>
+
+<h2>
+  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
+   <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a>  Achievements & Highlights </h2>
+
+- **🌐 Global Reach**: Engaging with coders worldwide, from beginners to experts.
+- **🔥 Trending Topics**: Problems that sharpen your data structures and algorithms skills.
+
+<h1> <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:38px; color: #FFD700" alt="Star GIF">
+Ready to Level Up Your Coding Skills? Give This Repo a Star! </h1>
+Your support fuels the journey. A star not only motivates but keeps the commitment alive. Let’s make coding collaborative and fun!
 
 **✨ Happy Coding!**
